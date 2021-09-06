@@ -14,6 +14,7 @@ node index.js
 
 # Dependências 
 ```bash
-# A dependências discord.js serve para criar qualquer rotina na API para o bot
+# A dependências discord.js tem como funcionalidade a criação de qualquer rotina na API para o bot
+# Como as respostas que o bot pode dar ao receber especificas msg/mensagens 
 npm i discord.js --save
 ``
